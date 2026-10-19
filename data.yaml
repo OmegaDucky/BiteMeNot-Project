@@ -1,0 +1,5 @@
+train: [directory path]/train/images
+val: [directory path]/valid/images
+
+nc: 1
+names: ['angry']
